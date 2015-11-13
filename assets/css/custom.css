@@ -1,0 +1,41 @@
+/* 1c0920 */
+/*530F25
+2D0E33 - 
+653F6C - 
+352139 /*/
+
+
+div.inner > h2 {
+	float: left;
+}
+
+#banner h2:before, #banner h2:after {
+	height: 1px;
+}
+
+#enscasem {
+	margin-top: -10%;
+	width: 250px;
+	height: 300px;
+	margin-left: 7%;
+}
+
+#enscasem img {
+	width: 120%;
+}
+
+#banner h2 {
+	width: 300px;
+}
+
+#three div header.major {
+	font-family: "SeaSide";
+	font-size: 35px;
+}
+
+#three div header.major p {
+	font-family: "NexaRustExtras";
+	font-size: 35px;
+	display:inline;
+	color: inherit;
+}
