@@ -1,3 +1,2 @@
 # wedding_site
-Pol & Mar wedding site
-Based on Spectral by HTML5 UP
+Pol & Mar wedding site, based on Spectral by HTML5 UP
